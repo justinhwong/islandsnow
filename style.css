@@ -3,3 +3,12 @@
   box-shadow: none;
   border: none;
 }
+
+.ui.centered.image {
+  max-width: 230px;
+}
+
+.ui.borderless.middlemenu.menu {
+  box-shadow: none;
+  border: none;
+}
